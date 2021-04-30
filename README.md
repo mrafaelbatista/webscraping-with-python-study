@@ -8,14 +8,15 @@ This repository is about my learning about to make web scraping with Python lang
     <li>Chapter 1 – First web scraper</li>
     <li>Chapter 2 – Analises of Advanced HTML</li>
     <li>Chapter 3 – Start to track back</li>
-    <li><span style="color:grey">Chapter 4 – Use API’s</span></li>
+    <!--
+    <li>Chapter 4 – Use API’s</li>
     <li>Chapter 5 – Data storage</li>
     <li>Chapter 6 – Read documents</li>
     <li>Chapter 7 – Clean dirty data</li>
     <li>Chapter 8 – Read and save naterual languages</li>
-    <li>Chapter 9 – Tracking forms and logins</li>
+    <li>Chapter 9 – Tracking forms and logins</li>-->
     <li>…</li>
-    <li>Chapter 14 – XXXX</li>
+    <li>Chapter 14 – XXXX</li> 
 <ul>
 
 ## Requirements
